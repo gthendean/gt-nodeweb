@@ -1,4 +1,4 @@
 gt-nodeweb
 ==========
 
-Simple Node.js Web application
+Simple NodeJs & AngularJs Web application.
